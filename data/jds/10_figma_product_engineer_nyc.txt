@@ -1,0 +1,23 @@
+[Illustrative posting. Fabricated in the style of a real Figma listing.]
+
+Figma — Product Engineer, Design Systems
+Location: New York, NY or San Francisco, CA (hybrid, 3 days/week)
+Level: Mid (3+ years)
+
+About the role
+The Design Systems team builds the tools designers use to define, govern, and roll out design languages across their organizations. This is one of the highest-leverage surfaces in the product: a small change here can ripple through thousands of teams.
+
+You will
+- Ship user-facing features in TypeScript and React across the Figma editor and web app.
+- Occasionally work in the C++ rendering core to add editor support for new primitives.
+- Partner with designers and PMs from problem framing through launch.
+- Instrument and analyze feature usage to inform iteration.
+
+Requirements
+- 3+ years shipping consumer or prosumer web software.
+- Strong TypeScript. Working proficiency in React.
+- Willingness to read and modify C++ occasionally. You don't need to be a systems engineer, but "I'll never touch it" is not the right attitude.
+- Design taste, or at least the humility to defer to designers who have it.
+
+Work arrangement
+Hybrid: 3 days per week in the New York or San Francisco office.

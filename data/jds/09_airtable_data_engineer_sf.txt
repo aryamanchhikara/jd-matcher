@@ -1,0 +1,23 @@
+[Illustrative posting. Fabricated in the style of a real Airtable listing.]
+
+Airtable — Data Engineer, Analytics Platform
+Location: San Francisco, CA (hybrid, 2 days/week)
+Level: Mid (3+ years)
+
+About the team
+The Analytics Platform team builds the internal data infrastructure that every other team at Airtable relies on to make decisions: event pipelines, transformation layers, self-service tooling.
+
+You will
+- Own the health of core event pipelines (ingest, dedupe, enrichment).
+- Build transformation models in dbt for use by product analytics and finance.
+- Partner with product engineers to instrument new surfaces correctly.
+- Establish data-quality SLAs and the alerting behind them.
+
+Requirements
+- 3+ years shipping data infrastructure in production.
+- Strong SQL. Comfort in Python for glue code and data quality tooling.
+- Experience with a modern warehouse (Snowflake, BigQuery, Redshift) and a transformation framework (dbt or equivalent).
+- Practical understanding of event schema design.
+
+Work arrangement
+Hybrid: two days in the San Francisco office. Fully remote candidates are not being considered.

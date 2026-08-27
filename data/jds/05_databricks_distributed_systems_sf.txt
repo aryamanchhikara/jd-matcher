@@ -1,0 +1,26 @@
+[Illustrative posting. Fabricated in the style of a real Databricks listing.]
+
+Databricks — Software Engineer, Distributed Systems (Delta Lake)
+Location: San Francisco, CA (hybrid, 3 days/week in office)
+Level: Mid to Senior
+
+About the team
+The Delta Lake storage team builds the open-source transactional storage layer underneath the entire Databricks Lakehouse platform. We work in Scala and Java on top of Spark, and we own everything from file-format evolution to concurrency control and metadata scaling.
+
+Responsibilities
+- Contribute to core Delta Lake internals: transaction log, optimistic concurrency, file layout, statistics collection.
+- Improve write and read performance for tables with billions of files.
+- Work with the open-source community: RFC discussion, code review, release management.
+
+Requirements
+- 4+ years of experience shipping distributed systems in production.
+- Proficiency in Scala, Java, or a comparable JVM language.
+- Solid understanding of database internals, storage engines, or query execution.
+- Comfort reading and writing complex concurrent code.
+
+Nice to have
+- Prior contributions to Apache Spark, Iceberg, Hudi, or similar projects.
+- Experience with cloud object stores (S3, GCS, ADLS) at scale.
+
+Work arrangement
+Hybrid: 3 days in our San Francisco headquarters.

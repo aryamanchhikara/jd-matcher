@@ -1,0 +1,23 @@
+[Illustrative posting. Fabricated in the style of a real Notion listing.]
+
+Notion — Frontend Product Engineer, Editor
+Location: Remote (US and Canada)
+Level: Mid (3+ years)
+
+About the team
+The Editor is the heart of Notion. Every keystroke that our users make goes through code owned by this team. We care deeply about latency, correctness under concurrent edits, and the feel of the product on the millisecond scale.
+
+You will
+- Build and maintain features in the Notion editor using TypeScript and React.
+- Diagnose and fix subtle rendering, selection, and input-method-editor bugs across browsers.
+- Work with the CRDT and sync teams on collaborative editing correctness.
+- Ship user-visible improvements every week.
+
+Requirements
+- 3+ years building consumer or prosumer web products.
+- Strong TypeScript and React. You have opinions about state management.
+- A track record of shipping and iterating on user-facing features.
+- Comfort in a fully remote, async-first environment.
+
+Work arrangement
+Fully remote, US and Canada time zones. No office requirement. Occasional team offsites (~2x/year).

@@ -1,0 +1,23 @@
+[Illustrative posting. Fabricated in the style of a real Vercel listing.]
+
+Vercel — Infrastructure Engineer, Edge Runtime
+Location: Remote (global, must overlap 4h with US Pacific)
+Level: Senior (5+ years)
+
+About the team
+Edge Runtime is the substrate that runs customer functions in dozens of regions around the world. Cold starts, isolation, and per-request memory footprint are the numbers we live and die by.
+
+You will
+- Improve the performance and reliability of our Rust-based runtime.
+- Contribute to open-source components (workerd, V8 isolates tooling).
+- Work with the networking team on request routing and TLS termination at the edge.
+- Own incidents end-to-end, from page to postmortem.
+
+Requirements
+- 5+ years of systems or infrastructure engineering.
+- Proficiency in Rust or Go, or willingness to be productive in Rust within your first month.
+- Strong Linux and networking fundamentals.
+- Comfort operating a globally distributed system.
+
+Work arrangement
+Fully remote. Vercel does not maintain a headquarters. Team members are distributed across the Americas and EMEA.

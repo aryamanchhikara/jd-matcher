@@ -1,0 +1,3 @@
+# PASTE HERE: Uber — Software Engineer I (San Francisco) posting text.
+# Everything above this line (including this comment block) will be
+# stripped by the loader before embedding. See src/jds.py.

@@ -1,0 +1,31 @@
+[Illustrative posting. Fabricated in the style of a real Datadog listing.]
+
+Datadog — Senior Software Engineer, Metrics Ingest Pipeline
+Location: New York, NY (onsite, 5 days/week in office)
+Level: Senior (IC4)
+Compensation: $210,000 – $260,000 base + equity
+
+About the team
+The Metrics Ingest team owns the highest-throughput write path at Datadog: tens of millions of metric points per second, ingested, aggregated, and durably stored under strict tail-latency SLOs. We run our own storage engine on bare metal and hybrid cloud. If a customer's dashboard is slow, or a data point is missing, our team owns it.
+
+What you'll do
+- Design and implement backend services in Go that sit on the hottest write path in the product.
+- Own components end-to-end: capacity planning, on-call rotation, incident review, and performance tuning at the kernel-and-network layer.
+- Improve throughput and reduce per-point CPU cost through profiling, allocation reduction, and careful concurrency design.
+- Collaborate with the storage, query, and reliability teams on cross-cutting problems.
+- Mentor mid-level and junior engineers; drive design reviews.
+
+Requirements
+- 5+ years of professional backend engineering experience.
+- Strong Go proficiency in a production setting. We are not looking for someone learning Go on the job; you should have shipped and operated Go services at meaningful scale.
+- Solid grounding in distributed systems fundamentals: consistency, partitioning, backpressure, quorum, at-least-once vs exactly-once semantics.
+- Comfort with Linux performance tools (perf, eBPF, flame graphs) and a debugging approach that goes below the language runtime.
+- Experience being primary on-call for a production system.
+
+Nice to have
+- Experience with time-series data or streaming infrastructure (Kafka, Pulsar, or in-house equivalents).
+- Contributions to open-source Go projects.
+- Prior tenure as a tech lead.
+
+Work arrangement
+This role is fully onsite in our New York office, Monday through Friday. We do not offer remote or hybrid arrangements for this position.

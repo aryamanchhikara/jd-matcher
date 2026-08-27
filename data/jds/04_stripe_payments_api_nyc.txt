@@ -1,0 +1,23 @@
+[Illustrative posting. Fabricated in the style of a real Stripe listing.]
+
+Stripe — Software Engineer, Payments API
+Location: New York, NY (hybrid, 3 days/week in office)
+Level: Mid (L3–L4)
+
+About the role
+Stripe's Payments API is the primary integration surface for hundreds of thousands of businesses. Every change we ship affects real transactions and real merchant revenue. We take API design seriously: backwards compatibility is a hard constraint, latency budgets are tight, and correctness matters more than shipping fast.
+
+You will
+- Design and implement new API surfaces in Ruby and Go, working closely with product, docs, and integrator success.
+- Own the operational health of the services you write, including on-call.
+- Write documentation and code samples that engineers on the other side of the API will actually read.
+- Participate in Stripe's rigorous API review process.
+
+We're looking for
+- 3+ years of professional backend engineering experience.
+- Proficiency in at least one of Ruby, Go, Java, or a similar server-side language, with the ability to pick up the others.
+- Experience designing external-facing APIs (REST or gRPC) that other engineers integrate against.
+- A high bar for correctness in the presence of concurrency and partial failure.
+
+Work arrangement
+Hybrid: 3 days per week in our New York or San Francisco office. Fully remote is not available for this role.

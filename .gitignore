@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/cache/embeddings/*.json
+data/cache/profiles/*.md
+!data/cache/embeddings/.gitkeep
+!data/cache/profiles/.gitkeep
+.streamlit/

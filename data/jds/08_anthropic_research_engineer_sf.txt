@@ -1,0 +1,27 @@
+[Illustrative posting. Fabricated in the style of a real Anthropic listing.]
+
+Anthropic — Research Engineer, Pretraining
+Location: San Francisco, CA (onsite)
+Level: Senior IC
+
+About the team
+The Pretraining team is responsible for training the largest Claude models. We work at the intersection of ML research and large-scale distributed systems: infrastructure, data, algorithms, and evaluation are all in scope.
+
+You will
+- Implement and evaluate changes to the pretraining stack: data mixing, curriculum, tokenization, optimizer variants.
+- Build and maintain training infrastructure that runs on thousands of accelerators.
+- Read and critique research papers; convert promising ideas into working code within days.
+- Debug training runs when loss curves misbehave.
+
+Requirements
+- Strong Python engineering. You can write clean, well-tested code that others will build on.
+- Experience with PyTorch or JAX at non-trivial scale (multi-GPU minimum, multi-node preferred).
+- Solid understanding of transformer architectures and modern LLM training practice.
+- Comfort with ambiguity: research problems don't come with specs.
+
+Nice to have
+- Prior publications at NeurIPS, ICML, ICLR, or equivalent venues.
+- Experience with distributed training frameworks (Megatron, DeepSpeed, FSDP, TPU pods).
+
+Work arrangement
+Onsite in San Francisco. This is not a remote role.
